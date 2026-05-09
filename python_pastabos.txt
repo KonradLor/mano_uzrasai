@@ -1,0 +1,16 @@
+
+
+ Python Konrado pamokos pastabos
+    =======================
+    
+    1. Kintamieji:
+       skaicius = 5
+       tekstas = "labas"
+    
+    2. Sąlygos:
+       if skaicius > 0:
+           print("teigiamas")
+    
+    3. Ciklai:
+       for i in range(5):
+           print(i)
