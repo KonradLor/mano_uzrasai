@@ -7,3 +7,5 @@ Mano uzrasai
 
 Failai:
     - python_pastabos.txt - Python pagrindai
+
+cia kazkas pakeiciau per narsykle!
