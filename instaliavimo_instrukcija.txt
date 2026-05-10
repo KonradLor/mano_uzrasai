@@ -1,0 +1,5 @@
+SETUP INSTRUKCIJA
+            =================
+            1. sudo apt update
+            2. sudo apt install python3
+            3. python3 --version
